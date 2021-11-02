@@ -3,7 +3,7 @@ There are total three final project given in Machine Learning with Python Intern
 
 ## About Project
 1. Predicition Of Wine Quality
-2. Gold Price Predicition
+2. Gold Price Prediction
 3. Credit Card Fraud Detection
 
 In all above projects, we have to first prepare dataset for training and use any algorithm based upon EDA.
