@@ -10,7 +10,7 @@ In all above projects, we have to first prepare dataset for training and use any
 Then the train model to fit the data and make predictions using the trained model.
 
 
-(Note : There is dataset file named as creditcard.csv in Credit Card Fraud Detection)
+(Note : There is dataset file named as creditcard.csv in Credit Card Fraud Detection which is not uploaded due to large size)
 
 ## Output
 1. Predicition Of Wine Quality
