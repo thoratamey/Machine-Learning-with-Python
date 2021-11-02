@@ -9,6 +9,9 @@ There are total three final project given in Machine Learning with Python Intern
 In all above projects, we have to first prepare dataset for training and use any algorithm based upon EDA.
 Then the train model to fit the data and make predictions using the trained model.
 
+
+(Note : There is dataset file named as creditcard.csv in Credit Card Fraud Detection)
+
 ## Output
 1. Predicition Of Wine Quality
 ![FP 1 1](https://user-images.githubusercontent.com/88768050/139812873-10d159b9-9ea5-4739-8707-e57593bb54ab.PNG)
