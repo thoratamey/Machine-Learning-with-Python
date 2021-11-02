@@ -49,3 +49,4 @@ Then the train model to fit the data and make predictions using the trained mode
 1. Aditya Bhinge
 2. Omkaar Rege
 3. Amey Thorat
+4. Pratham Gupta
