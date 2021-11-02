@@ -35,6 +35,14 @@ Then the train model to fit the data and make predictions using the trained mode
 ![FP 2 9](https://user-images.githubusercontent.com/88768050/139656121-1b2566d9-c4ed-4ab9-a904-aa1bbe3acda5.PNG)
 
 3. Credit Card Fraud Detection
+![FP 3 1](https://user-images.githubusercontent.com/88768050/139824782-2112f9f4-1a0a-4f59-bc4d-33291bb1edaa.PNG)
+![FP 3 2](https://user-images.githubusercontent.com/88768050/139824806-f309751a-2767-442f-a90e-c058f15417f6.PNG)
+![FP 3 3](https://user-images.githubusercontent.com/88768050/139824834-ed68f1a5-dae8-4c6e-9b21-2a56aa3de02d.PNG)
+![FP 3 4](https://user-images.githubusercontent.com/88768050/139824884-2c573d66-5a1d-4d95-9f3e-36507d213310.PNG)
+![FP 3 5](https://user-images.githubusercontent.com/88768050/139825071-6282c275-dff1-4957-8ea3-75f1ed58557a.PNG)
+![FP 3 6](https://user-images.githubusercontent.com/88768050/139825123-9b8dbb86-6c8d-4c20-ae0d-8124f817ae1e.PNG)
 
 ## Made by
-1. Amey Thorat
+1. Aditya Bhinge
+2. Omkaar Rege
+3. Amey Thorat
